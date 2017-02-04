@@ -8,5 +8,5 @@ import android.util.Log;
 public class MyAndroidTwo {
     public void getMyAndro(){
         Log.e("测试","测试111");
-      }
+    }
 }
